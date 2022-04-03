@@ -13,6 +13,17 @@ When I am not creating something super cool or busting digital bugs, I can be fo
 ## 🔭 I’m currently working on ...
 [<img src="https://avatars.githubusercontent.com/u/94817574?s=200&v=4" alt="Golang" width="70px">](https://github.com/golang-demos)
 
+## ⚡ I've built ...
+| Details                  | Industry        | TechStack                                       |
+|--------------------------|-----------------|-------------------------------------------------|
+| Grocery Shopping (B2C)   | Ecommerce       | Core PHP, MySQL, Angular, Ionic                 |
+| Subscription Based (B2C) | Ecommerce       | Laravel(PHP), MySQL, Angular, Ionic, Bash Shell |
+| Reports Generating Tool  | Food            | Electron, NodeJs, Angular, MySQL                |
+| Accounts Managing        | Accounting      | Laravel(PHP), Angular, MySQL                    |
+| Geo Tracking system      | IOT             | Laravel(PHP), Angular, MySQL                    |
+| Industry Training MIS    | Education       | Core PHP, AngularJs, MySQL                      |
+| Contacts Importer        | Email Marketing | PHP, MySQL                                      |
+
 
 <!--
 **vinay03/vinay03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

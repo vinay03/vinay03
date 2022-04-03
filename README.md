@@ -18,9 +18,9 @@ When I am not creating something super cool or busting digital bugs, I can be fo
 |--------------------------|-----------------|-------------------------------------------------|
 | Grocery Shopping (B2C)   | Ecommerce       | Core PHP, MySQL, Angular, Ionic                 |
 | Subscription Based (B2C) | Ecommerce       | Laravel(PHP), MySQL, Angular, Ionic, Bash Shell |
+| Geo Tracking System      | IOT             | Laravel(PHP), Angular, MySQL                    |
 | Reports Generating Tool  | Food            | Electron, NodeJs, Angular, MySQL                |
 | Accounts Managing        | Accounting      | Laravel(PHP), Angular, MySQL                    |
-| Geo Tracking system      | IOT             | Laravel(PHP), Angular, MySQL                    |
 | Industry Training MIS    | Education       | Core PHP, AngularJs, MySQL                      |
 | Contacts Importer        | Email Marketing | PHP, MySQL                                      |
 

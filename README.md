@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vinay Jeurkar
 
-[![linkedin profile link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vinay-jeurkar)
+[![linkedin profile link](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vinay-jeurkar)
 
 
 <!--

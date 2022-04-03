@@ -2,6 +2,15 @@
 
 [![linkedin profile link](https://shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vinay-jeurkar)
 
+## 🙋‍♂️ About me
+
+I am a technology enthusiast working from India. I am a passionate Software Architect with a experience of creating many end-to-end products and ecosystems.
+When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
+
+
+## 🔭 I’m currently working on ...
+
+
 
 <!--
 **vinay03/vinay03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

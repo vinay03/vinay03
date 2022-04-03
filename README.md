@@ -7,9 +7,11 @@
 I am a technology enthusiast working from India. I am a passionate Software Architect with a experience of creating many end-to-end products and ecosystems.
 When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
 
+## 🌱 I’m currently learning ...
+<img src="assets/golang-small.png" alt="Golang" width="300px">
 
 ## 🔭 I’m currently working on ...
-
+[<img src="https://avatars.githubusercontent.com/u/94817574?s=200&v=4" alt="Golang" width="300px">](https://github.com/golang-demos)
 
 
 <!--

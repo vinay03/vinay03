@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Vinay Jeurkar
+
+[![linkedin profile link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vinay-jeurkar)
+
 
 <!--
 **vinay03/vinay03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

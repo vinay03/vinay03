@@ -8,10 +8,10 @@ I am a technology enthusiast working from India. I am a passionate Software Arch
 When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
 
 ## 🌱 I’m currently learning ...
-<img src="assets/golang-small.png" alt="Golang" width="250px">
+<img src="assets/golang-small.png" alt="Golang" width="200px">
 
 ## 🔭 I’m currently working on ...
-[<img src="https://avatars.githubusercontent.com/u/94817574?s=200&v=4" alt="Golang" width="150px">](https://github.com/golang-demos)
+[<img src="https://avatars.githubusercontent.com/u/94817574?s=200&v=4" alt="Golang" width="70px">](https://github.com/golang-demos)
 
 
 <!--

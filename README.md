@@ -4,14 +4,15 @@
 
 ## 🙋‍♂️ About me
 
-I am a technology enthusiast working from India. I am a passionate Software Architect with a experience of creating many end-to-end products and ecosystems.
+I am a technology enthusiast working from India. I am passionate about Software Architecture and has an experience of creating many end-to-end products and ecosystems.
 When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
 
 ## 🌱 I’m currently mastering ...
 <img src="assets/golang-small.png" alt="Golang" width="200px">
 
 ## 🔭 Check out all my cool work in ...
-[<img src="https://avatars.githubusercontent.com/u/94817574?s=200&v=4" alt="Golang" width="70px">](https://github.com/golang-demos)
+- [Chalk](https://github.com/golang-demos/chalk)
+- [And the rest](https://github.com/golang-demos)
 
 ## ⚡ I've built ...
 | Details                  | Industry        | TechStack                                       |

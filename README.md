@@ -9,7 +9,7 @@ When I am not creating something super cool or busting digital bugs, I can be fo
 
 
 ## 🔭 Check my latest work ...
-- [Chalk](https://github.com/golang-demos/chalk)
+- [Chalk](https://github.com/vinay03/chalk)
 
 <!--
 ## ⚡ I've built ...

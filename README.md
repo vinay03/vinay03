@@ -10,6 +10,7 @@ When I am not creating something super cool or busting digital bugs, I can be fo
 
 ## 🔭 Check my latest work ...
 - [Chalk](https://github.com/vinay03/chalk)
+- [Load Balancer](https://github.com/vinay03/loadbalancer)
 
 <!--
 ## ⚡ I've built ...

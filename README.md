@@ -8,7 +8,7 @@ I am a technology enthusiast working from India. I am passionate about Software 
 When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
 
 
-## 🔭 Check my latest work ...
+## 🔭 Check my latest work:
 - [Chalk](https://github.com/vinay03/chalk)
 - [Load Balancer](https://github.com/vinay03/loadbalancer)
 

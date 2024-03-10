@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Vinay Jeurkar
+### Hi there! 👋
+
+I'm Vinay Jeurkar, a passionate code conjurer and tech aficionado on a perpetual quest for elegant solutions and clean code. With over 14 years of enchanting spells in software development, I thrive on turning caffeine into code and transforming complex problems into elegant algorithms.
 
 [![linkedin profile link](https://shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vinay-jeurkar)
 
@@ -6,6 +8,16 @@
 
 I am a technology enthusiast working from India. I am passionate about Software Architecture and has an experience of creating many end-to-end products and ecosystems.
 When I am not creating something super cool or busting digital bugs, I can be found on the internet, learning new technologies, acquiring new skills.
+
+
+## 🚀 Tech Wizardry
+
+- **Languages:** Golang, PHP, JavaScript, Typescript
+- **Frameworks & Libraries:** gRPC, Go-kit, Larvel
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **DevOps Spells:** Docker, Kubernetes, CI/CD
+- **CICD Tools:** Jenkins, Harnes, Travis CI
+- **Cloud Enchantments:** AWS
 
 
 ## 🔭 Check my latest work:
@@ -18,7 +30,7 @@ When I am not creating something super cool or busting digital bugs, I can be fo
 |--------------------------|-----------------|-------------------------------------------------|
 | Grocery Shopping (B2C)   | Ecommerce       | Core PHP, MySQL, Angular, Ionic                 |
 | Subscription Based (B2C) | Ecommerce       | Laravel(PHP), MySQL, Angular, Ionic, Bash Shell |
-| Geo Tracking System      | IOT             | Golang, Laravel(PHP), Angular, MySQL                    |
+| Geo Tracking System      | IOT             | Golang, gRPC, Angular, MySQL                    |
 | Reports Generating Tool  | Food            | Electron, NodeJs, Angular, MySQL                |
 | Accounts Managing        | Accounting      | Laravel(PHP), Angular, MySQL                    |
 | Industry Training MIS    | Education       | Core PHP, AngularJs, MySQL                      |

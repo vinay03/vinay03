@@ -1,3 +1,42 @@
+# Hi, I'm Vinay 👋
+
+### Staff Engineer & Software Architect — distributed systems & cloud-native infrastructure
+
+16+ years building enterprise-grade SaaS platforms end to end. I work where **Go** meets **Kubernetes** and **Terraform** — designing distributed systems, custom operators, and the infrastructure that keeps them reliable, observable, and secure.
+
+---
+
+#### 🛠️ What I do
+- 🏗️ Architect and ship cloud-native distributed systems & microservices (Go, gRPC)
+- ☸️ Build on Kubernetes — Helm, custom operators/CRDs with Kubebuilder, GitOps
+- 🌍 Automate infrastructure as code with Terraform across AWS, GCP & Azure
+- 📊 Make systems observable and alert-ready with Prometheus & Grafana
+- 🔐 Design for security — OAuth 2.0 / OIDC, Keycloak, Vault
+
+#### 🧰 Tech I reach for
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+#### 📌 A bit more
+- 🔭 Focused on edge & cloud-native platform engineering
+- 🌱 I write compact technical reference notes (Kubernetes, Helm, Go, gRPC, Terraform, GCP) for fast recall
+- 💬 Open to remote Staff / Principal engineering roles & architecture consulting
+- 📫 [LinkedIn](https://www.linkedin.com/in/vinay-jeurkar)
+
+
+<!--
+
 ### Hi there! 👋
 
 I'm Vinay Jeurkar, a passionate code conjurer and tech aficionado on a perpetual quest for elegant solutions and clean code. With over 14 years of enchanting spells in software development, I thrive on turning caffeine into code and transforming complex problems into elegant algorithms.
